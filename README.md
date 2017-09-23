@@ -1,534 +1,534 @@
 # LeetCode
 
 
-|  #  | Title                                                               | Solution      | Difficulty  |
-|-----|---------------------------------------------------------------------|---------------|-------------|
-| 526 | [Beautiful Arrangement][p526]                                       |               | Medium      |
-| 525 | [Contiguous Array][p525]                                            |               | Medium      |
-| 524 |                                                                     |               |             |
-| 523 |                                                                     |               |             |
-| 522 |                                                                     |               |             |
-| 521 |                                                                     |               |             |
-| 520 | [Detect Capital][p520]                                              | [Ruby][s520]  | Easy        |
-| 519 |                                                                     |               |             |
-| 518 |                                                                     |               |             |
-| 517 | [Super Washing Machines][p517]                                      |               | Hard        |
-| 516 | [Longest Palindromic Subsequence][p516]                             |               | Medium      |
-| 515 | [Find Largest Value in Each Tree Row][p515]                         |               | Medium      |
-| 514 |                                                                     |               |             |
-| 513 | [Find Bottom Left Tree Value][p513]                                 |               | Medium      |
-| 512 |                                                                     |               |             |
-| 511 |                                                                     |               |             |
-| 510 |                                                                     |               |             |
-| 509 |                                                                     |               |             |
-| 508 | [Most Frequent Subtree Sum][p508]                                   |               | Medium      |
-| 507 |                                                                     |               |             |
-| 506 | [Relative Ranks][p506]                                              | [Ruby][s506]  | Easy        |
-| 505 | [The Maze II][p505]                                                 |    :lock:     | Medium      |
-| 504 | [Base 7][p504]                                                      | [Ruby][s504]  | Easy        |
-| 503 | [Next Greater Element II][p503]                                     |               | Medium      |
-| 502 | [IPO][p502]                                                         |               | Hard        |
-| 501 | [Find Mode in Binary Search Tree][p501]                             | [Ruby][s501]  | Easy        |
-| 500 | [Keyboard Row][p500]                                                | [Ruby][s500]  | Easy        |
-| 499 | [The Maze III][p499]                                                |               | Hard        |
-| 498 | [Diagonal Traverse][p498]                                           |               | Medium      |
-| 497 |                                                                     |               |             |
-| 496 | [Next Greater Element I][p496]                                      |               | Easy        |
-| 495 | [Teemo Attacking][p495]                                             |               | Medium      |
-| 494 | [Target Sum][p494]                                                  |               | Medium      |
-| 493 | [Reverse Pairs][p493]                                               |               | Hard        |
-| 492 | [Construct the Rectangle][p492]                                     |               | Easy        |
-| 491 | [Increasing Subsequences][p491]                                     |               | Medium      |
-| 490 | [The Maze][p490]                                                    |    :lock:     | Medium      |
-| 489 |                                                                     |               |             |
-| 488 | [Zuma Game][p488]                                                   |               | Hard        |
-| 487 | [Max Consecutive Ones II][p487]                                     |    :lock:     | Medium      |
-| 486 | [Predict the Winner][p486]                                          |               | Medium      |
-| 485 | [Max Consecutive Ones][p485]                                        |               | Easy        |
-| 484 | [Find Permutation][p484]                                            |    :lock:     | Medium      |
-| 483 | [Smallest Good Base][p483]                                          |               | Hard        |
-| 482 | [License Key Formatting][p482]                                      |               | Medium      |
-| 481 | [Magical String][p481]                                              |               | Medium      |
-| 480 | [Sliding Window Median][p480]                                       |               | Hard        |
-| 479 |                                                                     |               |             |
-| 478 |                                                                     |               |             |
-| 477 | [Total Hamming Distance][p477]                                      |               | Medium      |
-| 476 | [Number Complement][p476]                                           |               | Easy        |
-| 475 | [Heaters][p475]                                                     |               | Easy        |
-| 474 | [Ones and Zeroes][p474]                                             |               | Medium      |
-| 473 | [Matchsticks to Square][p473]                                       |               | Medium      |
-| 472 | [Concatenated Words][p472]                                          |               | Hard        |
-| 471 | [Encode String with Shortest Length][p471]                          |    :lock:     | Hard        |
-| 470 |                                                                     |               |             |
-| 469 | [Convex Polygon][p469]                                              |    :lock:     | Medium      |
-| 468 | [Validate IP Address][p468]                                         | [Ruby][s468]  | Medium      |
-| 467 | [Unique Substrings in Wraparound String][p467]                      |               | Medium      |
-| 466 | [Count The Repetitions][p466]                                       |               | Hard        |
-| 465 | [Optimal Account Balancing][p465]                                   |    :lock:     | Hard        |
-| 464 | [Can I Win][p464]                                                   |               | Medium      |
-| 463 | [Island Perimeter][p463]                                            |               | Easy        |
-| 462 | [Minimum Moves to Equal Array Elements II][p462]                    |               | Medium      |
-| 461 | [Hamming Distance][p461]                                            |               | Easy        |
-| 460 | [LFU Cache][p460]                                                   |               | Hard        |
-| 459 | [Repeated Substring Pattern][p459]                                  |               | Easy        |
-| 458 |                                                                     |               |             |
-| 457 |                                                                     |               |             |
-| 456 | [132 Pattern][p456]                                                 |               | Medium      |
-| 455 | [Assign Cookies][p455]                                              | [Ruby][s455]  | Easy        |
-| 454 | [4Sum II][p454]                                                     |               | Medium      |
-| 453 | [Minimum Moves to Equal Array Elements][p453]                       | [Ruby][s453]  | Easy        |
-| 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |               | Medium      |
-| 451 | [Sort Characters By Frequency][p451]                                | [Ruby][s451]  | Medium      |
-| 450 | [Delete Node in a BST][p450]                                        |               | Medium      |
-| 449 | [Serialize and Deserialize BST][p449]                               | [Ruby][s449]  | Medium      |
-| 448 | [Find All Numbers Disappeared in an Array][p448]                    | [Ruby][s448]  | Easy        |
-| 447 | [Number of Boomerangs][p447]                                        |               | Easy        |
-| 446 | [Arithmetic Slices II - Subsequence][p446]                          |               | Hard        |
-| 445 | [Add Two Numbers II][p445]                                          |               | Medium      |
-| 444 | [Sequence Reconstruction][p444]                                     |    :lock:     | Medium      |
-| 443 |                                                                     |               |             |
-| 442 | [Find All Duplicates in an Array][p442]                             |               | Medium      |
-| 441 | [Arranging Coins][p441]                                             |               | Easy        |
-| 440 | [K-th Smallest in Lexicographical Order][p440]                      |               | Hard        |
-| 439 | [Ternary Expression Parser][p439]                                   |    :lock:     | Medium      |
-| 438 | [Find All Anagrams in a String][p438]                               |               | Easy        |
-| 437 | [Path Sum III][p437]                                                |               | Easy        |
-| 436 | [Find Right Interval][p436]                                         |               | Medium      |
-| 435 | [Non-overlapping Intervals][p435]                                   |               | Medium      |
-| 434 | [Number of Segments in a String][p434]                              |               | Easy        |
-| 433 |                                                                     |               |             |
-| 432 | [All O(1) Data Structure][p432]                                     |               | Hard        |
-| 431 |                                                                     |               |             |
-| 430 |                                                                     |               |             |
-| 429 |                                                                     |               |             |
-| 428 |                                                                     |               |             |
-| 427 |                                                                     |               |             |
-| 426 |                                                                     |               |             |
-| 425 | [Word Squares][p425]                                                |    :lock:     | Hard        |
-| 424 | [Longest Repeating Character Replacement][p424]                     |               | Medium      |
-| 423 | [Reconstruct Original Digits from English][p423]                    |               | Medium      |
-| 422 | [Valid Word Square][p422]                                           |    :lock:     | Easy        |
-| 421 | [Maximum XOR of Two Numbers in an Array][p421]                      |               | Medium      |
-| 420 | [Strong Password Checker][p420]                                     |               | Hard        |
-| 419 | [Battleships in a Board][p419]                                      |               | Medium      |
-| 418 | [Sentence Screen Fitting][p418]                                     |    :lock:     | Medium      |
-| 417 | [Pacific Atlantic Water Flow][p417]                                 |               | Medium      |
-| 416 | [Partition Equal Subset Sum][p416]                                  |               | Medium      |
-| 415 | [Add Strings][p415]                                                 |               | Easy        |
-| 414 | [Third Maximum Number][p414]                                        |               | Easy        |
-| 413 | [Arithmetic Slices][p413]                                           |               | Medium      |
-| 412 | [Fizz Buzz][p412]                                                   | [Ruby][s412]  | Easy        |
-| 411 | [Minimum Unique Word Abbreviation][p411]                            |    :lock:     | Hard        |
-| 410 | [Split Array Largest Sum][p410]                                     |               | Hard        |
-| 409 | [Longest Palindrome][p409]                                          | [Ruby][s409]  | Easy        |
-| 408 | [Valid Word Abbreviation][p408]                                     |    :lock:     | Easy        |
-| 407 | [Trapping Rain Water II][p407]                                      |               | Hard        |
-| 406 | [Queue Reconstruction by Height][p406]                              |               | Medium      |
-| 405 | [Convert a Number to Hexadecimal][p405]                             | [Ruby][s405]  | Easy        |
-| 404 | [Sum of Left Leaves][p404]                                          | [Ruby][s404]  | Easy        |
-| 403 | [Frog Jump][p403]                                                   |               | Hard        |
-| 402 | [Remove K Digits][p402]                                             |               | Medium      |
-| 401 | [Binary Watch][p401]                                                |               | Easy        |
-| 400 | [Nth Digit][p400]                                                   |               | Easy        |
-| 399 | [Evaluate Division][p399]                                           |               | Medium      |
-| 398 | [Random Pick Index][p398]                                           |    :soon:     | Medium      |
-| 397 | [Integer Replacement][p397]                                         |               | Medium      |
-| 396 | [Rotate Function][p396]                                             | [Ruby][s396]  | Easy        |
-| 395 | [Longest Substring with At Least K Repeating Characters][p395]      |               | Medium      |
-| 394 | [Decode String][p394]                                               | [Ruby][s394]  | Medium      |
-| 393 | [UTF-8 Validation][p393]                                            | [Ruby][s393]  | Medium      |
-| 392 | [Is Subsequence][p392]                                              |               | Medium      |
-| 391 | [Perfect Rectangle][p391]                                           |               | Hard        |
-| 390 | [Elimination Game][p390]                                            |               | Medium      |
-| 389 | [Find the Difference][p389]                                         | [Ruby][s389]  | Easy        |
-| 388 | [Longest Absolute File Path][p388]                                  |               | Medium      |
-| 387 | [First Unique Character in a String][p387]                          | [Ruby][s387]  | Easy        |
-| 386 | [Lexicographical Numbers][p386]                                     |    :soon:     | Medium      |
-| 385 | [Mini Parser][p385]                                                 | [Ruby][s385]  | Medium      |
-| 384 | [Shuffle an Array][p384]                                            |    :soon:     | Medium      |
-| 383 | [Ransom Note][p383]                                                 | [Ruby][s383]  | Easy        |
-| 382 | [Linked List Random Node][p382]                                     |    :soon:     | Medium      |
-| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |    :soon:     | Hard        |
-| 380 | [Insert Delete GetRandom O(1)][p380]                                |    :soon:     | Hard        |
-| 379 | [Design Phone Directory][p379]                                      |    :lock:     | Medium      |
-| 378 | [Kth Smallest Element in a Sorted Matrix][p378]                     |               | Medium      |
-| 377 | [Combination Sum IV][p377]                                          |               | Medium      |
-| 376 | [Wiggle Subsequence][p376]                                          |               | Medium      |
-| 375 | [Guess Number Higher or Lower II][p375]                             |               | Medium      |
-| 374 | [Guess Number Higher or Lower][p374]                                |    :soon:     | Easy        |
-| 373 | [Find K Pairs with Smallest Sums][p373]                             |               | Medium      |
-| 372 | [Super Pow][p372]                                                   |               | Medium      |
-| 371 | [Sum of Two Integers][p371]                                         | [Ruby][s371]  | Easy        |
-| 370 | [Range Addition][p370]                                              |    :lock:     | Medium      |
-| 369 | [Plus One Linked List][p369]                                        |    :lock:     | Medium      |
-| 368 | [Largest Divisible Subset][p368]                                    |               | Medium      |
-| 367 | [Valid Perfect Square][p367]                                        | [Ruby][s367]  | Easy        |
-| 366 | [Find Leaves of Binary Tree][p366]                                  |    :lock:     | Medium      |
-| 365 | [Water and Jug Problem][p365]                                       |               | Medium      |
-| 364 | [Nested List Weight Sum II][p364]                                   |    :lock:     | Medium      |
-| 363 | [Max Sum of Rectangle No Larger Than K][p363]                       |               | Hard        |
-| 362 | [Design Hit Counter][p362]                                          |    :lock:     | Medium      |
-| 361 | [Bomb Enemy][p361]                                                  |    :lock:     | Medium      |
-| 360 | [Sort Transformed Array][p360]                                      |    :lock:     | Medium      |
-| 359 | [Logger Rate Limiter][p359]                                         |    :lock:     | Easy        |
-| 358 | [Rearrange String k Distance Apart][p358]                           |    :lock:     | Hard        |
-| 357 | [Count Numbers with Unique Digits][p357]                            |               | Medium      |
-| 356 | [Line Reflection][p356]                                             |    :lock:     | Medium      |
-| 355 | [Design Twitter][p355]                                              |    :soon:     | Medium      |
-| 354 | [Russian Doll Envelopes][p354]                                      |               | Hard        |
-| 353 | [Design Snake Game][p353]                                           |    :lock:     | Medium      |
-| 352 | [Data Stream as Disjoint Intervals][p352]                           |    :soon:     | Hard        |
-| 351 | [Android Unlock Patterns ][p351]                                    |    :lock:     | Medium      |
-| 350 | [Intersection of Two Arrays II][p350]                               | [Ruby][s350]  | Easy        |
-| 349 | [Intersection of Two Arrays][p349]                                  | [Ruby][s349]  | Easy        |
-| 348 | [Design Tic-Tac-Toe][p348]                                          |    :lock:     | Medium      |
-| 347 | [Top K Frequent Elements][p347]                                     | [Ruby][s347]  | Medium      |
-| 346 | [Moving Average from Data Stream][p346]                             |    :lock:     | Easy        |
-| 345 | [Reverse Vowels of a String][p345]                                  | [Ruby][s345]  | Easy        |
-| 344 | [Reverse String][p344]                                              | [Ruby][s344]  | Easy        |
-| 343 | [Integer Break][p343]                                               | [Ruby][s343]  | Medium      |
-| 342 | [Power of Four][p342]                                               | [Ruby][s342]  | Easy        |
-| 341 | [Flatten Nested List Iterator][p341]                                |    :lock:     | Medium      |
-| 340 | [Longest Substring with At Most K Distinct Characters][p340]        |    :lock:     | Hard        |
-| 339 | [Nested List Weight Sum][p339]                                      |    :lock:     | Easy        |
-| 338 | [Counting Bits][p338]                                               | [Ruby][s338]  | Medium      |
-| 337 | [House Robber III][p337]                                            | [Ruby][s337]  | Medium      |
-| 336 | [Palindrome Pairs][p336]                                            | [Ruby][s336]  | Hard        |
-| 335 | [Self Crossing][p335]                                               | [Ruby][s335]  | Medium      |
-| 334 | [Increasing Triplet Subsequence][p334]                              | [Ruby][s334]  | Medium      |
-| 333 | [Largest BST Subtree][p333]                                         |    :lock:     | Medium      |
-| 332 | [Reconstruct Itinerary][p332]                                       | [Ruby][s332]  | Medium      |
-| 331 | [Verify Preorder Serialization of a Binary Tree][p331]              | [Ruby][s331]  | Medium      |
-| 330 | [Patching Array][p330]                                              | [Ruby][s330]  | Medium      |
-| 329 | [Longest Increasing Path in a Matrix][p329]                         | [Ruby][s329]  | Medium      |
-| 328 | [Odd Even Linked List][p328]                                        | [Ruby][s328]  | Easy        |
-| 327 | [Count of Range Sum][p327]                                          | [Ruby][s327]  | Hard        |
-| 326 | [Power of Three][p326]                                              | [Ruby][s326]  | Easy        |
-| 325 | [Maximum Size Subarray Sum Equals k][p325]                          |    :lock:     | Easy        |
-| 324 | [Wiggle Sort II][p324]                                              | [Ruby][s324]  | Medium      |
-| 323 | [Number of Connected Components in an Undirected Graph][p323]       |    :lock:     | Easy        |
-| 322 | [Coin Change][p322]                                                 | [Ruby][s322]  | Medium      |
-| 321 | [Create Maximum Number][p321]                                       | [Ruby][s321]  | Hard        |
-| 320 | [Generalized Abbreviation][p320]                                    |    :lock:     | Medium      |
-| 319 | [Bulb Switcher][p319]                                               | [Ruby][s319]  | Medium      |
-| 318 | [Maximum Product of Word Lengths][p318]                             | [Ruby][s318]  | Medium      |
-| 317 | [Shortest Distance from All Buildings][p317]                        |    :lock:     | Hard        |
-| 316 | [Remove Duplicate Letters][p316]                                    | [Ruby][s316]  | Medium      |
-| 315 | [Count of Smaller Numbers After Self][p315]                         | [Ruby][s315]  | Hard        |
-| 314 | [Binary Tree Vertical Order Traversal][p314]                        |    :lock:     | Medium      |
-| 313 | [Super Ugly Number][p313]                                           | [Ruby][s313]  | Medium      |
-| 312 | [Burst Balloons][p312]                                              | [Ruby][s312]  | Medium      |
-| 311 | [Sparse Matrix Multiplication ][p311]                               |    :lock:     | Medium      |
-| 310 | [Minimum Height Trees][p310]                                        | [Ruby][s310]  | Medium      |
-| 309 | [Best Time to Buy and Sell Stock with Cooldown][p309]               | [Ruby][s309]  | Medium      |
-| 308 | [Range Sum Query 2D - Mutable][p308]                                |    :lock:     | Hard        |
-| 307 | [Range Sum Query - Mutable][p307]                                   | [Ruby][s307]  | Medium      |
-| 306 | [Additive Number][p306]                                             | [Ruby][s306]  | Medium      |
-| 305 | [Number of Islands II][p305]                                        |    :lock:     | Hard        |
-| 304 | [Range Sum Query 2D - Immutable][p304]                              | [Ruby][s304]  | Medium      |
-| 303 | [Range Sum Query - Immutable][p303]                                 | [Ruby][s303]  | Easy        |
-| 302 | [Smallest Rectangle Enclosing Black Pixels][p302]                   |    :lock:     | Medium      |
-| 301 | [Remove Invalid Parentheses][p301]                                  | [Ruby][s301]  | Medium      |
-| 300 | [Longest Increasing Subsequence][p300]                              | [Ruby][s300]  | Medium      |
-| 299 | [Bulls and Cows][p299]                                              | [Ruby][s299]  | Easy        |
-| 298 | [Binary Tree Longest Consecutive Sequence][p298]                    |    :lock:     | Medium      |
-| 297 | [Serialize and Deserialize Binary Tree][p297]                       | [Ruby][s297]  | Medium      |
-| 296 | [Best Meeting Point][p296]                                          |    :lock:     | Medium      |
-| 295 | [Find Median from Data Stream][p295]                                | [Ruby][s295]  | Hard        |
-| 294 | [Flip Game II][p294]                                                |    :lock:     | Medium      |
-| 293 | [Flip Game][p293]                                                   |    :lock:     | Easy        |
-| 292 | [Nim Game][p292]                                                    | [Ruby][s292]  | Easy        |
-| 291 | [Word Pattern II][p291]                                             |    :lock:     | Hard        |
-| 290 | [Word Pattern][p290]                                                | [Ruby][s290]  | Easy        |
-| 289 | [Game of Life][p289]                                                | [Ruby][s289]  | Medium      |
-| 288 | [Unique Word Abbreviation][p288]                                    |    :lock:     | Easy        |
-| 287 | [Find the Duplicate Number][p287]                                   | [Ruby][s287]  | Hard        |
-| 286 | [Walls and Gates][p286]                                             |    :lock:     | Medium      |
-| 285 | [Inorder Successor in BST][p285]                                    |    :lock:     | Medium      |
-| 284 | [Peeking Iterator][p284]                                            |    :soon:     | Medium      |
-| 283 | [Move Zeroes][p283]                                                 | [Ruby][s283]  | Easy        |
-| 282 | [Expression Add Operators][p282]                                    | [Ruby][s282]  | Hard        |
-| 281 | [Zigzag Iterator][p281]                                             |    :lock:     | Medium      |
-| 280 | [Wiggle Sort][p280]                                                 |    :lock:     | Medium      |
-| 279 | [Perfect Squares][p279]                                             | [Ruby][s279]  | Medium      |
-| 278 | [First Bad Version][p278]                                           | [Ruby][s278]  | Easy        |
-| 277 | [Find the Celebrity][p277]                                          |    :lock:     | Medium      |
-| 276 | [Paint Fence][p276]                                                 |    :lock:     | Easy        |
-| 275 | [H-Index II][p275]                                                  | [Ruby][s275]  | Medium      |
-| 274 | [H-Index][p274]                                                     | [Ruby][s274]  | Medium      |
-| 273 | [Integer to English Words][p273]                                    | [Ruby][s273]  | Medium      |
-| 272 | [Closest Binary Search Tree Value II][p272]                         |    :lock:     | Hard        |
-| 271 | [Encode and Decode Strings][p271]                                   |    :lock:     | Medium      |
-| 270 | [Closest Binary Search Tree Value][p270]                            |    :lock:     | Easy        |
-| 269 | [Alien Dictionary][p269]                                            |    :lock:     | Hard        |
-| 268 | [Missing Number][p268]                                              | [Ruby][s268]  | Medium      |
-| 267 | [Palindrome Permutation II][p267]                                   |    :lock:     | Medium      |
-| 266 | [Palindrome Permutation][p266]                                      |    :lock:     | Easy        |
-| 265 | [Paint House II][p265]                                              |    :lock:     | Hard        |
-| 264 | [Ugly Number II][p264]                                              | [Ruby][s264]  | Medium      |
-| 263 | [Ugly Number][p263]                                                 | [Ruby][s263]  | Easy        |
-| 262 | [Trips and Users][p262]                                             |[MySQL][s262]  | Hard        |
-| 261 | [Graph Valid Tree][p261]                                            |    :lock:     | Medium      |
-| 260 | [Single Number III][p260]                                           | [Ruby][s260]  | Medium      |
-| 259 | [3Sum Smaller][p259]                                                |    :lock:     | Medium      |
-| 258 | [Add Digits][p258]                                                  | [Ruby][s258]  | Easy        |
-| 257 | [Binary Tree Paths][p257]                                           | [Ruby][s257]  | Easy        |
-| 256 | [Paint House][p256]                                                 |    :lock:     | Medium      |
-| 255 | [Verify Preorder Sequence in Binary Search Tree][p255]              |    :lock:     | Medium      |
-| 254 | [Factor Combinations][p254]                                         |    :lock:     | Medium      |
-| 253 | [Meeting Rooms II][p253]                                            |    :lock:     | Medium      |
-| 252 | [Meeting Rooms][p252]                                               |    :lock:     | Easy        |
-| 251 | [Flatten 2D Vector][p251]                                           |    :lock:     | Medium      |
-| 250 | [Count Univalue Subtrees][p250]                                     |    :lock:     | Medium      |
-| 249 | [Group Shifted Strings][p249]                                       |    :lock:     | Easy        |
-| 248 | [Strobogrammatic Number III][p248]                                  |    :lock:     | Hard        |
-| 247 | [Strobogrammatic Number II][p247]                                   |    :lock:     | Medium      |
-| 246 | [Strobogrammatic Number][p246]                                      |    :lock:     | Easy        |
-| 245 | [Shortest Word Distance III][p245]                                  |    :lock:     | Medium      |
-| 244 | [Shortest Word Distance II][p244]                                   |    :lock:     | Medium      |
-| 243 | [Shortest Word Distance][p243]                                      |    :lock:     | Easy        |
-| 242 | [Valid Anagram][p242]                                               | [Ruby][s242]  | Easy        |
-| 241 | [Different Ways to Add Parentheses][p241]                           | [Ruby][s241]  | Medium      |
-| 240 | [Search a 2D Matrix II][p240]                                       | [Ruby][s240]  | Medium      |
-| 239 | [Sliding Window Maximum][p239]                                      | [Ruby][s239]  | Hard        |
-| 238 | [Product of Array Except Self][p238]                                | [Ruby][s238]  | Medium      |
-| 237 | [Delete Node in a Linked List][p237]                                | [Ruby][s237]  | Easy        |
-| 236 | [Lowest Common Ancestor of a Binary Tree][p236]                     | [Ruby][s236]  | Medium      |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree][p235]              | [Ruby][s235]  | Easy        |
-| 234 | [Palindrome Linked List][p234]                                      | [Ruby][s234]  | Easy        |
-| 233 | [Number of Digit One][p233]                                         | [Ruby][s233]  | Medium      |
-| 232 | [Implement Queue using Stacks][p232]                                | [Ruby][s232]  | Easy        |
-| 231 | [Power of Two][p231]                                                | [Ruby][s231]  | Easy        |
-| 230 | [Kth Smallest Element in a BST][p230]                               | [Ruby][s230]  | Medium      |
-| 229 | [Majority Element II][p229]                                         | [Ruby][s229]  | Medium      |
-| 228 | [Summary Ranges][p228]                                              | [Ruby][s228]  | Easy        |
-| 227 | [Basic Calculator II][p227]                                         | [Ruby][s227]  | Medium      |
-| 226 | [Invert Binary Tree][p226]                                          | [Ruby][s226]  | Easy        |
-| 225 | [Implement Stack using Queues][p225]                                | [Ruby][s225]  | Easy        |
-| 224 | [Basic Calculator][p224]                                            | [Ruby][s224]  | Medium      |
-| 223 | [Rectangle Area][p223]                                              | [Ruby][s223]  | Easy        |
-| 222 | [Count Complete Tree Nodes][p222]                                   | [Ruby][s222]  | Medium      |
-| 221 | [Maximal Square][p221]                                              | [Ruby][s221]  | Medium      |
-| 220 | [Contains Duplicate III][p220]                                      | [Ruby][s220]  | Medium      |
-| 219 | [Contains Duplicate II][p219]                                       | [Ruby][s219]  | Easy        |
-| 218 | [The Skyline Problem][p218]                                         | [Ruby][s218]  | Hard        |
-| 217 | [Contains Duplicate][p217]                                          | [Ruby][s217]  | Easy        |
-| 216 | [Combination Sum III][p216]                                         | [Ruby][s216]  | Medium      |
-| 215 | [Kth Largest Element in an Array][p215]                             | [Ruby][s215]  | Medium      |
-| 214 | [Shortest Palindrome][p214]                                         | [Ruby][s214]  | Hard        |
-| 213 | [House Robber II][p213]                                             | [Ruby][s213]  | Medium      |
-| 212 | [Word Search II][p212]                                              | [Ruby][s212]  | Hard        |
-| 211 | [Add and Search Word - Data structure design][p211]                 | [Ruby][s211]  | Medium      |
-| 210 | [Course Schedule II][p210]                                          | [Ruby][s210]  | Medium      |
-| 209 | [Minimum Size Subarray Sum][p209]                                   | [Ruby][s209]  | Medium      |
-| 208 | [Implement Trie (Prefix Tree)][p208]                                | [Ruby][s208]  | Medium      |
-| 207 | [Course Schedule][p207]                                             | [Ruby][s207]  | Medium      |
-| 206 | [Reverse Linked List][p206]                                         | [Ruby][s206]  | Easy        |
-| 205 | [Isomorphic Strings][p205]                                          | [Ruby][s205]  | Easy        |
-| 204 | [Count Primes][p204]                                                | [Ruby][s204]  | Easy        |
-| 203 | [Remove Linked List Elements][p203]                                 | [Ruby][s203]  | Easy        |
-| 202 | [Happy Number][p202]                                                | [Ruby][s202]  | Easy        |
-| 201 | [Bitwise AND of Numbers Range][p201]                                | [Ruby][s201]  | Medium      |
-| 200 | [Number of Islands][p200]                                           | [Ruby][s200]  | Medium      |
-| 199 | [Binary Tree Right Side View][p199]                                 | [Ruby][s199]  | Medium      |
-| 198 | [House Robber][p198]                                                | [Ruby][s198]  | Easy        |
-| 197 | [Rising Temperature][p197]                                          |[MySQL][s197]  | Easy        |
-| 196 | [Delete Duplicate Emails][p196]                                     |[MySQL][s196]  | Easy        |
-| 195 | [Tenth Line][p195]                                                  | [Bash][s195]  | Easy        |
-| 194 | [Transpose File][p194]                                              | [Bash][s194]  | Medium      |
-| 193 | [Valid Phone Numbers][p193]                                         | [Bash][s193]  | Easy        |
-| 192 | [Word Frequency][p192]                                              | [Bash][s192]  | Medium      |
-| 191 | [Number of 1 Bits][p191]                                            | [Ruby][s191]  | Easy        |
-| 190 | [Reverse Bits][p190]                                                | [Ruby][s190]  | Easy        |
-| 189 | [Rotate Array][p189]                                                | [Ruby][s189]  | Easy        |
-| 188 | [Best Time to Buy and Sell Stock IV][p188]                          | [Ruby][s188]  | Hard        |
-| 187 | [Repeated DNA Sequences][p187]                                      | [Ruby][s187]  | Medium      |
-| 186 | [Reverse Words in a String II][p186]                                |    :lock:     | Medium      |
-| 185 | [Department Top Three Salaries][p185]                               |[MySQL][s185]  | Hard        |
-| 184 | [Department Highest Salary][p184]                                   |[MySQL][s184]  | Medium      |
-| 183 | [Customers Who Never Order][p183]                                   |[MySQL][s183]  | Easy        |
-| 182 | [Duplicate Emails][p182]                                            |[MySQL][s182]  | Easy        |
-| 181 | [Employees Earning More Than Their Managers][p181]                  |[MySQL][s181]  | Easy        |
-| 180 | [Consecutive Numbers][p180]                                         |[MySQL][s180]  | Medium      |
-| 179 | [Largest Number][p179]                                              | [Ruby][s179]  | Medium      |
-| 178 | [Rank Scores][p178]                                                 |[MySQL][s178]  | Medium      |
-| 177 | [Nth Highest Salary][p177]                                          |[MySQL][s177]  | Medium      |
-| 176 | [Second Highest Salary][p176]                                       |[MySQL][s176]  | Easy        |
-| 175 | [Combine Two Tables][p175]                                          |[MySQL][s175]  | Easy        |
-| 174 | [Dungeon Game][p174]                                                | [Ruby][s174]  | Hard        |
-| 173 | [Binary Search Tree Iterator][p173]                                 | [Ruby][s173]  | Medium      |
-| 172 | [Factorial Trailing Zeroes][p172]                                   | [Ruby][s172]  | Easy        |
-| 171 | [Excel Sheet Column Number][p171]                                   | [Ruby][s171]  | Easy        |
-| 170 | [Two Sum III - Data structure design][p170]                         |    :lock:     | Easy        |
-| 169 | [Majority Element][p169]                                            | [Ruby][s169]  | Easy        |
-| 168 | [Excel Sheet Column Title][p168]                                    | [Ruby][s168]  | Easy        |
-| 167 | [Two Sum II - Input array is sorted][p167]                          |    :lock:     | Medium      |
-| 166 | [Fraction to Recurring Decimal][p166]                               | [Ruby][s166]  | Medium      |
-| 165 | [Compare Version Numbers][p165]                                     | [Ruby][s165]  | Easy        |
-| 164 | [Maximum Gap][p164]                                                 | [Ruby][s164]  | Hard        |
-| 163 | [Missing Ranges][p163]                                              |    :lock:     | Medium      |
-| 162 | [Find Peak Element][p162]                                           | [Ruby][s162]  | Medium      |
-| 161 | [One Edit Distance][p161]                                           |    :lock:     | Medium      |
-| 160 | [Intersection of Two Linked Lists][p160]                            |    :soon:     | Easy        |
-| 159 | [Longest Substring with At Most Two Distinct Characters][p159]      |    :lock:     | Hard        |
-| 158 | [Read N Characters Given Read4 II - Call multiple times][p158]      |    :lock:     | Hard        |
-| 157 | [Read N Characters Given Read4][p157]                               |    :lock:     | Easy        |
-| 156 | [Binary Tree Upside Down][p156]                                     |    :lock:     | Medium      |
-| 155 | [Min Stack][p155]                                                   | [Ruby][s155]  | Easy        |
-| 154 | [Find Minimum in Rotated Sorted Array II][p154]                     | [Ruby][s154]  | Hard        |
-| 153 | [Find Minimum in Rotated Sorted Array][p153]                        | [Ruby][s153]  | Medium      |
-| 152 | [Maximum Product Subarray][p152]                                    | [Ruby][s152]  | Medium      |
-| 151 | [Reverse Words in a String][p151]                                   |    :soon:     | Medium      |
-| 150 | [Evaluate Reverse Polish Notation][p150]                            | [Ruby][s150]  | Medium      |
-| 149 | [Max Points on a Line][p149]                                        | [Ruby][s149]  | Hard        |
-| 148 | [Sort List][p148]                                                   | [Ruby][s148]  | Medium      |
-| 147 | [Insertion Sort List][p147]                                         | [Ruby][s147]  | Medium      |
-| 146 | [LRU Cache][p146]                                                   | [Ruby][s146]  | Hard        |
-| 145 | [Binary Tree Postorder Traversal][p145]                             | [Ruby][s145]  | Hard        |
-| 144 | [Binary Tree Preorder Traversal][p144]                              | [Ruby][s144]  | Medium      |
-| 143 | [Reorder List][p143]                                                | [Ruby][s143]  | Medium      |
-| 142 | [Linked List Cycle II][p142]                                        |    :soon:     | Medium      |
-| 141 | [Linked List Cycle][p141]                                           |    :soon:     | Medium      |
-| 140 | [Word Break II][p140]                                               | [Ruby][s140]  | Hard        |
-| 139 | [Word Break][p139]                                                  | [Ruby][s139]  | Medium      |
-| 138 | [Copy List with Random Pointer][p138]                               |    :soon:     | Hard        |
-| 137 | [Single Number II][p137]                                            | [Ruby][s137]  | Medium      |
-| 136 | [Single Number][p136]                                               | [Ruby][s136]  | Medium      |
-| 135 | [Candy][p135]                                                       | [Ruby][s135]  | Hard        |
-| 134 | [Gas Station][p134]                                                 | [Ruby][s134]  | Medium      |
-| 133 | [Clone Graph][p133]                                                 |    :soon:     | Medium      |
-| 132 | [Palindrome Partitioning II][p132]                                  | [Ruby][s132]  | Hard        |
-| 131 | [Palindrome Partitioning][p131]                                     | [Ruby][s131]  | Medium      |
-| 130 | [Surrounded Regions][p130]                                          | [Ruby][s130]  | Medium      |
-| 129 | [Sum Root to Leaf Numbers][p129]                                    | [Ruby][s129]  | Medium      |
-| 128 | [Longest Consecutive Sequence][p128]                                | [Ruby][s128]  | Hard        |
-| 127 | [Word Ladder][p127]                                                 | [Ruby][s127]  | Medium      |
-| 126 | [Word Ladder II][p126]                                              |    :soon:     | Hard        |
-| 125 | [Valid Palindrome][p125]                                            | [Ruby][s125]  | Easy        |
-| 124 | [Binary Tree Maximum Path Sum][p124]                                | [Ruby][s124]  | Hard        |
-| 123 | [Best Time to Buy and Sell Stock III][p123]                         | [Ruby][s123]  | Hard        |
-| 122 | [Best Time to Buy and Sell Stock II][p122]                          | [Ruby][s122]  | Medium      |
-| 121 | [Best Time to Buy and Sell Stock][p121]                             | [Ruby][s121]  | Medium      |
-| 120 | [Triangle][p120]                                                    | [Ruby][s120]  | Medium      |
-| 119 | [Pascal's Triangle II][p119]                                        | [Ruby][s119]  | Easy        |
-| 118 | [Pascal's Triangle][p118]                                           | [Ruby][s118]  | Easy        |
-| 117 | [Populating Next Right Pointers in Each Node II][p117]              |    :soon:     | Hard        |
-| 116 | [Populating Next Right Pointers in Each Node][p116]                 |    :soon:     | Medium      |
-| 115 | [Distinct Subsequences][p115]                                       | [Ruby][s115]  | Hard        |
-| 114 | [Flatten Binary Tree to Linked List][p114]                          | [Ruby][s114]  | Medium      |
-| 113 | [Path Sum II][p113]                                                 | [Ruby][s113]  | Medium      |
-| 112 | [Path Sum][p112]                                                    | [Ruby][s112]  | Easy        |
-| 111 | [Minimum Depth of Binary Tree][p111]                                | [Ruby][s111]  | Easy        |
-| 110 | [Balanced Binary Tree][p110]                                        | [Ruby][s110]  | Easy        |
-| 109 | [Convert Sorted List to Binary Search Tree][p109]                   | [Ruby][s109]  | Medium      |
-| 108 | [Convert Sorted Array to Binary Search Tree][p108]                  | [Ruby][s108]  | Medium      |
-| 107 | [Binary Tree Level Order Traversal II][p107]                        | [Ruby][s107]  | Easy        |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal][p106]  | [Ruby][s106]  | Medium      |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal][p105]   | [Ruby][s105]  | Medium      |
-| 104 | [Maximum Depth of Binary Tree][p104]                                | [Ruby][s104]  | Easy        |
-| 103 | [Binary Tree Zigzag Level Order Traversal][p103]                    | [Ruby][s103]  | Medium      |
-| 102 | [Binary Tree Level Order Traversal][p102]                           | [Ruby][s102]  | Easy        |
-| 101 | [Symmetric Tree][p101]                                              | [Ruby][s101]  | Easy        |
-| 100 | [Same Tree][p100]                                                   | [Ruby][s100]  | Easy        |
-|  99 | [Recover Binary Search Tree][p99]                                   | [Ruby][s99]   | Hard        |
-|  98 | [Validate Binary Search Tree][p98]                                  | [Ruby][s98]   | Medium      |
-|  97 | [Interleaving String][p97]                                          | [Ruby][s97]   | Hard        |
-|  96 | [Unique Binary Search Trees][p96]                                   | [Ruby][s96]   | Medium      |
-|  95 | [Unique Binary Search Trees II][p95]                                | [Ruby][s95]   | Medium      |
-|  94 | [Binary Tree Inorder Traversal][p94]                                | [Ruby][s94]   | Medium      |
-|  93 | [Restore IP Addresses][p93]                                         | [Ruby][s93]   | Medium      |
-|  92 | [Reverse Linked List II][p92]                                       | [Ruby][s92]   | Medium      |
-|  91 | [Decode Ways][p91]                                                  | [Ruby][s91]   | Medium      |
-|  90 | [Subsets II][p90]                                                   | [Ruby][s90]   | Medium      |
-|  89 | [Gray Code][p89]                                                    | [Ruby][s89]   | Medium      |
-|  88 | [Merge Sorted Array][p88]                                           | [Ruby][s88]   | Easy        |
-|  87 | [Scramble String][p87]                                              | [Ruby][s87]   | Hard        |
-|  86 | [Partition List][p86]                                               | [Ruby][s86]   | Medium      |
-|  85 | [Maximal Rectangle][p85]                                            | [Ruby][s85]   | Hard        |
-|  84 | [Largest Rectangle in Histogram][p84]                               | [Ruby][s84]   | Hard        |
-|  83 | [Remove Duplicates from Sorted List][p83]                           | [Ruby][s83]   | Easy        |
-|  82 | [Remove Duplicates from Sorted List II][p82]                        | [Ruby][s82]   | Medium      |
-|  81 | [Search in Rotated Sorted Array II][p81]                            | [Ruby][s81]   | Medium      |
-|  80 | [Remove Duplicates from Sorted Array II][p80]                       | [Ruby][s80]   | Medium      |
-|  79 | [Word Search][p79]                                                  | [Ruby][s79]   | Medium      |
-|  78 | [Subsets][p78]                                                      | [Ruby][s78]   | Medium      |
-|  77 | [Combinations][p77]                                                 | [Ruby][s77]   | Medium      |
-|  76 | [Minimum Window Substring][p76]                                     | [Ruby][s76]   | Hard        |
-|  75 | [Sort Colors][p75]                                                  | [Ruby][s75]   | Medium      |
-|  74 | [Search a 2D Matrix][p74]                                           | [Ruby][s74]   | Medium      |
-|  73 | [Set Matrix Zeroes][p73]                                            | [Ruby][s73]   | Medium      |
-|  72 | [Edit Distance][p72]                                                | [Ruby][s72]   | Hard        |
-|  71 | [Simplify Path][p71]                                                | [Ruby][s71]   | Medium      |
-|  70 | [Climbing Stairs][p70]                                              | [Ruby][s70]   | Easy        |
-|  69 | [Sqrt()][p69]                                                       | [Ruby][s69]   | Medium      |
-|  68 | [Text Justification][p68]                                           | [Ruby][s68]   | Hard        |
-|  67 | [Add Binary][p67]                                                   | [Ruby][s67]   | Easy        |
-|  66 | [Plus One][p66]                                                     | [Ruby][s66]   | Easy        |
-|  65 | [Valid Number][p65]                                                 | [Ruby][s65]   | Hard        |
-|  64 | [Minimum Path Sum][p64]                                             | [Ruby][s64]   | Medium      |
-|  63 | [Unique Paths II][p63]                                              | [Ruby][s63]   | Medium      |
-|  62 | [Unique Paths][p62]                                                 | [Ruby][s62]   | Medium      |
-|  61 | [Rotate List][p61]                                                  | [Ruby][s61]   | Medium      |
-|  60 | [Permutation Sequence][p60]                                         | [Ruby][s60]   | Medium      |
-|  59 | [Spiral Matrix II][p59]                                             | [Ruby][s59]   | Medium      |
-|  58 | [Length of Last Word][p58]                                          | [Ruby][s58]   | Easy        |
-|  57 | [Insert Interval][p57]                                              | [Ruby][s57]   | Hard        |
-|  56 | [Merge Intervals][p56]                                              | [Ruby][s56]   | Hard        |
-|  55 | [Jump Game][p55]                                                    | [Ruby][s55]   | Medium      |
-|  54 | [Spiral Matrix][p54]                                                | [Ruby][s54]   | Medium      |
-|  53 | [Maximum Subarray][p53]                                             | [Ruby][s53]   | Medium      |
-|  52 | [N-Queens II][p52]                                                  | [Ruby][s52]   | Hard        |
-|  51 | [N-Queens][p51]                                                     | [Ruby][s51]   | Hard        |
-|  50 | [Pow(x, n)][p50]                                                    | [Ruby][s50]   | Medium      |
-|  49 | [Group Anagrams][p49]                                               | [Ruby][s49]   | Medium      |
-|  48 | [Rotate Image][p48]                                                 | [Ruby][s48]   | Medium      |
-|  47 | [Permutations II][p47]                                              | [Ruby][s47]   | Medium      |
-|  46 | [Permutations][p46]                                                 | [Ruby][s46]   | Medium      |
-|  45 | [Jump Game II][p45]                                                 | [Ruby][s45]   | Hard        |
-|  44 | [Wildcard Matching][p44]                                            | [Ruby][s44]   | Hard        |
-|  43 | [Multiply Strings][p43]                                             | [Ruby][s43]   | Medium      |
-|  42 | [Trapping Rain Water][p42]                                          | [Ruby][s42]   | Hard        |
-|  41 | [First Missing Positive][p41]                                       | [Ruby][s41]   | Hard        |
-|  40 | [Combination Sum II][p40]                                           | [Ruby][s40]   | Medium      |
-|  39 | [Combination Sum][p39]                                              | [Ruby][s39]   | Medium      |
-|  38 | [Count and Say][p38]                                                | [Ruby][s38]   | Easy        |
-|  37 | [Sudoku Solver][p37]                                                | [Ruby][s37]   | Hard        |
-|  36 | [Valid Sudoku][p36]                                                 | [Ruby][s36]   | Easy        |
-|  35 | [Search Insert Position][p35]                                       | [Ruby][s35]   | Medium      |
-|  34 | [Search for a Range][p34]                                           | [Ruby][s34]   | Medium      |
-|  33 | [Search in Rotated Sorted Array][p33]                               | [Ruby][s33]   | Hard        |
-|  32 | [Longest Valid Parentheses][p32]                                    | [Ruby][s32]   | Hard        |
-|  31 | [Next Permutation][p31]                                             | [Ruby][s31]   | Medium      |
-|  30 | [Substring with Concatenation of All Words][p30]                    | [Ruby][s30]   | Hard        |
-|  29 | [Divide Two Integers][p29]                                          | [Ruby][s29]   | Medium      |
-|  28 | [Implement strStr()][p28]                                           | [Ruby][s28]   | Easy        |
-|  27 | [Remove Element][p27]                                               | [Ruby][s27]   | Easy        |
-|  26 | [Remove Duplicates from Sorted Array][p26]                          | [Ruby][s26]   | Easy        |
-|  25 | [Reverse Nodes in k-Group][p25]                                     | [Ruby][s25]   | Hard        |
-|  24 | [Swap Nodes in Pairs][p24]                                          | [Ruby][s24]   | Medium      |
-|  23 | [Merge k Sorted Lists][p23]                                         | [Ruby][s23]   | Hard        |
-|  22 | [Generate Parentheses][p22]                                         | [Ruby][s22]   | Medium      |
-|  21 | [Merge Two Sorted Lists][p21]                                       | [Ruby][s21]   | Easy        |
-|  20 | [Valid Parentheses][p20]                                            | [Ruby][s20]   | Easy        |
-|  19 | [Remove Nth Node From End of List][p19]                             | [Ruby][s19]   | Easy        |
-|  18 | [4Sum][p18]                                                         | [Ruby][s18]   | Medium      |
-|  17 | [Letter Combinations of a Phone Number][p17]                        | [Ruby][s17]   | Medium      |
-|  16 | [3Sum Closest][p16]                                                 | [Ruby][s16]   | Medium      |
-|  15 | [3Sum][p15]                                                         | [Ruby][s15]   | Medium      |
-|  14 | [Longest Common Prefix][p14]                                        | [Ruby][s14]   | Easy        |
-|  13 | [Roman to Integer][p13]                                             | [Ruby][s13]   | Easy        |
-|  12 | [Integer to Roman][p12]                                             | [Ruby][s12]   | Medium      |
-|  11 | [Container With Most Water][p11]                                    | [Ruby][s11]   | Medium      |
-|  10 | [Regular Expression Matching][p10]                                  | [Ruby][s10]   | Hard        |
-|   9 | [Palindrome Number][p9]                                             | [Ruby][s9]    | Easy        |
-|   8 | [String to Integer (atoi)][p8]                                      | [Ruby][s8]    | Easy        |
-|   7 | [Reverse Integer][p7]                                               | [Ruby][s7]    | Easy        |
-|   6 | [ZigZag Conversion][p6]                                             | [Ruby][s6]    | Easy        |
-|   5 | [Longest Palindromic Substring][p5]                                 | [Ruby][s5]    | Medium      |
-|   4 | [Median of Two Sorted Arrays][p4]                                   | [Ruby][s4]    | Hard        |
-|   3 | [Longest Substring Without Repeating Characters][p3]                | [Ruby][s3]    | Medium      |
-|   2 | [Add Two Numbers][p2]                                               | [Ruby][s2]    | Medium      |
-|   1 | [Two Sum][p1]                                                       | [Ruby][s1]    | Medium      |
+|  #  | Title                                                               |My Solution| Solution      | Difficulty  |
+|-----|---------------------------------------------------------------------|-----------|---------------|-------------|
+| 526 | [Beautiful Arrangement][p526]                                       |           |               | Medium      |
+| 525 | [Contiguous Array][p525]                                            |           |               | Medium      |
+| 524 |                                                                     |           |               |             |
+| 523 |                                                                     |           |               |             |
+| 522 |                                                                     |           |               |             |
+| 521 |                                                                     |           |               |             |
+| 520 | [Detect Capital][p520]                                              |           | [Ruby][s520]  | Easy        |
+| 519 |                                                                     |           |               |             |
+| 518 |                                                                     |           |               |             |
+| 517 | [Super Washing Machines][p517]                                      |           |               | Hard        |
+| 516 | [Longest Palindromic Subsequence][p516]                             |           |               | Medium      |
+| 515 | [Find Largest Value in Each Tree Row][p515]                         |           |               | Medium      |
+| 514 |                                                                     |           |               |             |
+| 513 | [Find Bottom Left Tree Value][p513]                                 |           |               | Medium      |
+| 512 |                                                                     |           |               |             |
+| 511 |                                                                     |           |               |             |
+| 510 |                                                                     |           |               |             |
+| 509 |                                                                     |           |               |             |
+| 508 | [Most Frequent Subtree Sum][p508]                                   |           |               | Medium      |
+| 507 |                                                                     |           |               |             |
+| 506 | [Relative Ranks][p506]                                              |           | [Ruby][s506]  | Easy        |
+| 505 | [The Maze II][p505]                                                 |           |    :lock:     | Medium      |
+| 504 | [Base 7][p504]                                                      |           | [Ruby][s504]  | Easy        |
+| 503 | [Next Greater Element II][p503]                                     |           |               | Medium      |
+| 502 | [IPO][p502]                                                         |           |               | Hard        |
+| 501 | [Find Mode in Binary Search Tree][p501]                             |           | [Ruby][s501]  | Easy        |
+| 500 | [Keyboard Row][p500]                                                |           | [Ruby][s500]  | Easy        |
+| 499 | [The Maze III][p499]                                                |           |               | Hard        |
+| 498 | [Diagonal Traverse][p498]                                           |           |               | Medium      |
+| 497 |                                                                     |           |               |             |
+| 496 | [Next Greater Element I][p496]                                      |           |               | Easy        |
+| 495 | [Teemo Attacking][p495]                                             |           |               | Medium      |
+| 494 | [Target Sum][p494]                                                  |           |               | Medium      |
+| 493 | [Reverse Pairs][p493]                                               |           |               | Hard        |
+| 492 | [Construct the Rectangle][p492]                                     |           |               | Easy        |
+| 491 | [Increasing Subsequences][p491]                                     |           |               | Medium      |
+| 490 | [The Maze][p490]                                                    |           |    :lock:     | Medium      |
+| 489 |                                                                     |           |               |             |
+| 488 | [Zuma Game][p488]                                                   |           |               | Hard        |
+| 487 | [Max Consecutive Ones II][p487]                                     |           |    :lock:     | Medium      |
+| 486 | [Predict the Winner][p486]                                          |           |               | Medium      |
+| 485 | [Max Consecutive Ones][p485]                                        |           |               | Easy        |
+| 484 | [Find Permutation][p484]                                            |           |    :lock:     | Medium      |
+| 483 | [Smallest Good Base][p483]                                          |           |               | Hard        |
+| 482 | [License Key Formatting][p482]                                      |           |               | Medium      |
+| 481 | [Magical String][p481]                                              |           |               | Medium      |
+| 480 | [Sliding Window Median][p480]                                       |           |               | Hard        |
+| 479 |                                                                     |           |               |             |
+| 478 |                                                                     |           |               |             |
+| 477 | [Total Hamming Distance][p477]                                      |           |               | Medium      |
+| 476 | [Number Complement][p476]                                           |           |               | Easy        |
+| 475 | [Heaters][p475]                                                     |           |               | Easy        |
+| 474 | [Ones and Zeroes][p474]                                             |           |               | Medium      |
+| 473 | [Matchsticks to Square][p473]                                       |           |               | Medium      |
+| 472 | [Concatenated Words][p472]                                          |           |               | Hard        |
+| 471 | [Encode String with Shortest Length][p471]                          |           |    :lock:     | Hard        |
+| 470 |                                                                     |           |               |             |
+| 469 | [Convex Polygon][p469]                                              |           |    :lock:     | Medium      |
+| 468 | [Validate IP Address][p468]                                         |           | [Ruby][s468]  | Medium      |
+| 467 | [Unique Substrings in Wraparound String][p467]                      |           |               | Medium      |
+| 466 | [Count The Repetitions][p466]                                       |           |               | Hard        |
+| 465 | [Optimal Account Balancing][p465]                                   |           |    :lock:     | Hard        |
+| 464 | [Can I Win][p464]                                                   |           |               | Medium      |
+| 463 | [Island Perimeter][p463]                                            |           |               | Easy        |
+| 462 | [Minimum Moves to Equal Array Elements II][p462]                    |           |               | Medium      |
+| 461 | [Hamming Distance][p461]                                            |           |               | Easy        |
+| 460 | [LFU Cache][p460]                                                   |           |               | Hard        |
+| 459 | [Repeated Substring Pattern][p459]                                  |           |               | Easy        |
+| 458 |                                                                     |           |               |             |
+| 457 |                                                                     |           |               |             |
+| 456 | [132 Pattern][p456]                                                 |           |               | Medium      |
+| 455 | [Assign Cookies][p455]                                              |           | [Ruby][s455]  | Easy        |
+| 454 | [4Sum II][p454]                                                     |           |               | Medium      |
+| 453 | [Minimum Moves to Equal Array Elements][p453]                       |           | [Ruby][s453]  | Easy        |
+| 452 | [Minimum Number of Arrows to Burst Balloons][p452]                  |           |               | Medium      |
+| 451 | [Sort Characters By Frequency][p451]                                |           | [Ruby][s451]  | Medium      |
+| 450 | [Delete Node in a BST][p450]                                        |           |               | Medium      |
+| 449 | [Serialize and Deserialize BST][p449]                               |           | [Ruby][s449]  | Medium      |
+| 448 | [Find All Numbers Disappeared in an Array][p448]                    |           | [Ruby][s448]  | Easy        |
+| 447 | [Number of Boomerangs][p447]                                        |           |               | Easy        |
+| 446 | [Arithmetic Slices II - Subsequence][p446]                          |           |               | Hard        |
+| 445 | [Add Two Numbers II][p445]                                          |           |               | Medium      |
+| 444 | [Sequence Reconstruction][p444]                                     |           |    :lock:     | Medium      |
+| 443 |                                                                     |           |               |             |
+| 442 | [Find All Duplicates in an Array][p442]                             |           |               | Medium      |
+| 441 | [Arranging Coins][p441]                                             |           |               | Easy        |
+| 440 | [K-th Smallest in Lexicographical Order][p440]                      |           |               | Hard        |
+| 439 | [Ternary Expression Parser][p439]                                   |           |    :lock:     | Medium      |
+| 438 | [Find All Anagrams in a String][p438]                               |           |               | Easy        |
+| 437 | [Path Sum III][p437]                                                |           |               | Easy        |
+| 436 | [Find Right Interval][p436]                                         |           |               | Medium      |
+| 435 | [Non-overlapping Intervals][p435]                                   |           |               | Medium      |
+| 434 | [Number of Segments in a String][p434]                              |           |               | Easy        |
+| 433 |                                                                     |           |               |             |
+| 432 | [All O(1) Data Structure][p432]                                     |           |               | Hard        |
+| 431 |                                                                     |           |               |             |
+| 430 |                                                                     |           |               |             |
+| 429 |                                                                     |           |               |             |
+| 428 |                                                                     |           |               |             |
+| 427 |                                                                     |           |               |             |
+| 426 |                                                                     |           |               |             |
+| 425 | [Word Squares][p425]                                                |           |    :lock:     | Hard        |
+| 424 | [Longest Repeating Character Replacement][p424]                     |           |               | Medium      |
+| 423 | [Reconstruct Original Digits from English][p423]                    |           |               | Medium      |
+| 422 | [Valid Word Square][p422]                                           |           |    :lock:     | Easy        |
+| 421 | [Maximum XOR of Two Numbers in an Array][p421]                      |           |               | Medium      |
+| 420 | [Strong Password Checker][p420]                                     |           |               | Hard        |
+| 419 | [Battleships in a Board][p419]                                      |           |               | Medium      |
+| 418 | [Sentence Screen Fitting][p418]                                     |           |    :lock:     | Medium      |
+| 417 | [Pacific Atlantic Water Flow][p417]                                 |           |               | Medium      |
+| 416 | [Partition Equal Subset Sum][p416]                                  |           |               | Medium      |
+| 415 | [Add Strings][p415]                                                 |           |               | Easy        |
+| 414 | [Third Maximum Number][p414]                                        |           |               | Easy        |
+| 413 | [Arithmetic Slices][p413]                                           |           |               | Medium      |
+| 412 | [Fizz Buzz][p412]                                                   |           | [Ruby][s412]  | Easy        |
+| 411 | [Minimum Unique Word Abbreviation][p411]                            |           |    :lock:     | Hard        |
+| 410 | [Split Array Largest Sum][p410]                                     |           |               | Hard        |
+| 409 | [Longest Palindrome][p409]                                          |           | [Ruby][s409]  | Easy        |
+| 408 | [Valid Word Abbreviation][p408]                                     |           |    :lock:     | Easy        |
+| 407 | [Trapping Rain Water II][p407]                                      |           |               | Hard        |
+| 406 | [Queue Reconstruction by Height][p406]                              |           |               | Medium      |
+| 405 | [Convert a Number to Hexadecimal][p405]                             |           | [Ruby][s405]  | Easy        |
+| 404 | [Sum of Left Leaves][p404]                                          |           | [Ruby][s404]  | Easy        |
+| 403 | [Frog Jump][p403]                                                   |           |               | Hard        |
+| 402 | [Remove K Digits][p402]                                             |           |               | Medium      |
+| 401 | [Binary Watch][p401]                                                |           |               | Easy        |
+| 400 | [Nth Digit][p400]                                                   |           |               | Easy        |
+| 399 | [Evaluate Division][p399]                                           |           |               | Medium      |
+| 398 | [Random Pick Index][p398]                                           |           |    :soon:     | Medium      |
+| 397 | [Integer Replacement][p397]                                         |           |               | Medium      |
+| 396 | [Rotate Function][p396]                                             |           | [Ruby][s396]  | Easy        |
+| 395 | [Longest Substring with At Least K Repeating Characters][p395]      |           |               | Medium      |
+| 394 | [Decode String][p394]                                               |           | [Ruby][s394]  | Medium      |
+| 393 | [UTF-8 Validation][p393]                                            |           | [Ruby][s393]  | Medium      |
+| 392 | [Is Subsequence][p392]                                              |           |               | Medium      |
+| 391 | [Perfect Rectangle][p391]                                           |           |               | Hard        |
+| 390 | [Elimination Game][p390]                                            |           |               | Medium      |
+| 389 | [Find the Difference][p389]                                         |           | [Ruby][s389]  | Easy        |
+| 388 | [Longest Absolute File Path][p388]                                  |           |               | Medium      |
+| 387 | [First Unique Character in a String][p387]                          |           | [Ruby][s387]  | Easy        |
+| 386 | [Lexicographical Numbers][p386]                                     |           |    :soon:     | Medium      |
+| 385 | [Mini Parser][p385]                                                 |           | [Ruby][s385]  | Medium      |
+| 384 | [Shuffle an Array][p384]                                            |           |    :soon:     | Medium      |
+| 383 | [Ransom Note][p383]                                                 |           | [Ruby][s383]  | Easy        |
+| 382 | [Linked List Random Node][p382]                                     |           |    :soon:     | Medium      |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed][p381]           |           |    :soon:     | Hard        |
+| 380 | [Insert Delete GetRandom O(1)][p380]                                |           |    :soon:     | Hard        |
+| 379 | [Design Phone Directory][p379]                                      |           |    :lock:     | Medium      |
+| 378 | [Kth Smallest Element in a Sorted Matrix][p378]                     |           |               | Medium      |
+| 377 | [Combination Sum IV][p377]                                          |           |               | Medium      |
+| 376 | [Wiggle Subsequence][p376]                                          |           |               | Medium      |
+| 375 | [Guess Number Higher or Lower II][p375]                             |           |               | Medium      |
+| 374 | [Guess Number Higher or Lower][p374]                                |           |    :soon:     | Easy        |
+| 373 | [Find K Pairs with Smallest Sums][p373]                             |           |               | Medium      |
+| 372 | [Super Pow][p372]                                                   |           |               | Medium      |
+| 371 | [Sum of Two Integers][p371]                                         |           | [Ruby][s371]  | Easy        |
+| 370 | [Range Addition][p370]                                              |           |    :lock:     | Medium      |
+| 369 | [Plus One Linked List][p369]                                        |           |    :lock:     | Medium      |
+| 368 | [Largest Divisible Subset][p368]                                    |           |               | Medium      |
+| 367 | [Valid Perfect Square][p367]                                        |           | [Ruby][s367]  | Easy        |
+| 366 | [Find Leaves of Binary Tree][p366]                                  |           |    :lock:     | Medium      |
+| 365 | [Water and Jug Problem][p365]                                       |           |               | Medium      |
+| 364 | [Nested List Weight Sum II][p364]                                   |           |    :lock:     | Medium      |
+| 363 | [Max Sum of Rectangle No Larger Than K][p363]                       |           |               | Hard        |
+| 362 | [Design Hit Counter][p362]                                          |           |    :lock:     | Medium      |
+| 361 | [Bomb Enemy][p361]                                                  |           |    :lock:     | Medium      |
+| 360 | [Sort Transformed Array][p360]                                      |           |    :lock:     | Medium      |
+| 359 | [Logger Rate Limiter][p359]                                         |           |    :lock:     | Easy        |
+| 358 | [Rearrange String k Distance Apart][p358]                           |           |    :lock:     | Hard        |
+| 357 | [Count Numbers with Unique Digits][p357]                            |           |               | Medium      |
+| 356 | [Line Reflection][p356]                                             |           |    :lock:     | Medium      |
+| 355 | [Design Twitter][p355]                                              |           |    :soon:     | Medium      |
+| 354 | [Russian Doll Envelopes][p354]                                      |           |               | Hard        |
+| 353 | [Design Snake Game][p353]                                           |           |    :lock:     | Medium      |
+| 352 | [Data Stream as Disjoint Intervals][p352]                           |           |    :soon:     | Hard        |
+| 351 | [Android Unlock Patterns ][p351]                                    |           |    :lock:     | Medium      |
+| 350 | [Intersection of Two Arrays II][p350]                               |           | [Ruby][s350]  | Easy        |
+| 349 | [Intersection of Two Arrays][p349]                                  |           | [Ruby][s349]  | Easy        |
+| 348 | [Design Tic-Tac-Toe][p348]                                          |           |    :lock:     | Medium      |
+| 347 | [Top K Frequent Elements][p347]                                     |           | [Ruby][s347]  | Medium      |
+| 346 | [Moving Average from Data Stream][p346]                             |           |    :lock:     | Easy        |
+| 345 | [Reverse Vowels of a String][p345]                                  |           | [Ruby][s345]  | Easy        |
+| 344 | [Reverse String][p344]                                              |           | [Ruby][s344]  | Easy        |
+| 343 | [Integer Break][p343]                                               |           | [Ruby][s343]  | Medium      |
+| 342 | [Power of Four][p342]                                               |           | [Ruby][s342]  | Easy        |
+| 341 | [Flatten Nested List Iterator][p341]                                |           |    :lock:     | Medium      |
+| 340 | [Longest Substring with At Most K Distinct Characters][p340]        |           |    :lock:     | Hard        |
+| 339 | [Nested List Weight Sum][p339]                                      |           |    :lock:     | Easy        |
+| 338 | [Counting Bits][p338]                                               |           | [Ruby][s338]  | Medium      |
+| 337 | [House Robber III][p337]                                            |           | [Ruby][s337]  | Medium      |
+| 336 | [Palindrome Pairs][p336]                                            |           | [Ruby][s336]  | Hard        |
+| 335 | [Self Crossing][p335]                                               |           | [Ruby][s335]  | Medium      |
+| 334 | [Increasing Triplet Subsequence][p334]                              |           | [Ruby][s334]  | Medium      |
+| 333 | [Largest BST Subtree][p333]                                         |           |    :lock:     | Medium      |
+| 332 | [Reconstruct Itinerary][p332]                                       |           | [Ruby][s332]  | Medium      |
+| 331 | [Verify Preorder Serialization of a Binary Tree][p331]              |           | [Ruby][s331]  | Medium      |
+| 330 | [Patching Array][p330]                                              |           | [Ruby][s330]  | Medium      |
+| 329 | [Longest Increasing Path in a Matrix][p329]                         |           | [Ruby][s329]  | Medium      |
+| 328 | [Odd Even Linked List][p328]                                        |           | [Ruby][s328]  | Easy        |
+| 327 | [Count of Range Sum][p327]                                          |           | [Ruby][s327]  | Hard        |
+| 326 | [Power of Three][p326]                                              |           | [Ruby][s326]  | Easy        |
+| 325 | [Maximum Size Subarray Sum Equals k][p325]                          |           |    :lock:     | Easy        |
+| 324 | [Wiggle Sort II][p324]                                              |           | [Ruby][s324]  | Medium      |
+| 323 | [Number of Connected Components in an Undirected Graph][p323]       |           |    :lock:     | Easy        |
+| 322 | [Coin Change][p322]                                                 |           | [Ruby][s322]  | Medium      |
+| 321 | [Create Maximum Number][p321]                                       |           | [Ruby][s321]  | Hard        |
+| 320 | [Generalized Abbreviation][p320]                                    |           |    :lock:     | Medium      |
+| 319 | [Bulb Switcher][p319]                                               |           | [Ruby][s319]  | Medium      |
+| 318 | [Maximum Product of Word Lengths][p318]                             |           | [Ruby][s318]  | Medium      |
+| 317 | [Shortest Distance from All Buildings][p317]                        |           |    :lock:     | Hard        |
+| 316 | [Remove Duplicate Letters][p316]                                    |           | [Ruby][s316]  | Medium      |
+| 315 | [Count of Smaller Numbers After Self][p315]                         |           | [Ruby][s315]  | Hard        |
+| 314 | [Binary Tree Vertical Order Traversal][p314]                        |           |    :lock:     | Medium      |
+| 313 | [Super Ugly Number][p313]                                           |           | [Ruby][s313]  | Medium      |
+| 312 | [Burst Balloons][p312]                                              |           | [Ruby][s312]  | Medium      |
+| 311 | [Sparse Matrix Multiplication ][p311]                               |           |    :lock:     | Medium      |
+| 310 | [Minimum Height Trees][p310]                                        |           | [Ruby][s310]  | Medium      |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown][p309]               |           | [Ruby][s309]  | Medium      |
+| 308 | [Range Sum Query 2D - Mutable][p308]                                |           |    :lock:     | Hard        |
+| 307 | [Range Sum Query - Mutable][p307]                                   |           | [Ruby][s307]  | Medium      |
+| 306 | [Additive Number][p306]                                             |           | [Ruby][s306]  | Medium      |
+| 305 | [Number of Islands II][p305]                                        |           |    :lock:     | Hard        |
+| 304 | [Range Sum Query 2D - Immutable][p304]                              |           | [Ruby][s304]  | Medium      |
+| 303 | [Range Sum Query - Immutable][p303]                                 |           | [Ruby][s303]  | Easy        |
+| 302 | [Smallest Rectangle Enclosing Black Pixels][p302]                   |           |    :lock:     | Medium      |
+| 301 | [Remove Invalid Parentheses][p301]                                  |           | [Ruby][s301]  | Medium      |
+| 300 | [Longest Increasing Subsequence][p300]                              |           | [Ruby][s300]  | Medium      |
+| 299 | [Bulls and Cows][p299]                                              |           | [Ruby][s299]  | Easy        |
+| 298 | [Binary Tree Longest Consecutive Sequence][p298]                    |           |    :lock:     | Medium      |
+| 297 | [Serialize and Deserialize Binary Tree][p297]                       |           | [Ruby][s297]  | Medium      |
+| 296 | [Best Meeting Point][p296]                                          |           |    :lock:     | Medium      |
+| 295 | [Find Median from Data Stream][p295]                                |           | [Ruby][s295]  | Hard        |
+| 294 | [Flip Game II][p294]                                                |           |    :lock:     | Medium      |
+| 293 | [Flip Game][p293]                                                   |           |    :lock:     | Easy        |
+| 292 | [Nim Game][p292]                                                    |           | [Ruby][s292]  | Easy        |
+| 291 | [Word Pattern II][p291]                                             |           |    :lock:     | Hard        |
+| 290 | [Word Pattern][p290]                                                |           | [Ruby][s290]  | Easy        |
+| 289 | [Game of Life][p289]                                                |           | [Ruby][s289]  | Medium      |
+| 288 | [Unique Word Abbreviation][p288]                                    |           |    :lock:     | Easy        |
+| 287 | [Find the Duplicate Number][p287]                                   |           | [Ruby][s287]  | Hard        |
+| 286 | [Walls and Gates][p286]                                             |           |    :lock:     | Medium      |
+| 285 | [Inorder Successor in BST][p285]                                    |           |    :lock:     | Medium      |
+| 284 | [Peeking Iterator][p284]                                            |           |    :soon:     | Medium      |
+| 283 | [Move Zeroes][p283]                                                 |           | [Ruby][s283]  | Easy        |
+| 282 | [Expression Add Operators][p282]                                    |           | [Ruby][s282]  | Hard        |
+| 281 | [Zigzag Iterator][p281]                                             |           |    :lock:     | Medium      |
+| 280 | [Wiggle Sort][p280]                                                 |           |    :lock:     | Medium      |
+| 279 | [Perfect Squares][p279]                                             |           | [Ruby][s279]  | Medium      |
+| 278 | [First Bad Version][p278]                                           |           | [Ruby][s278]  | Easy        |
+| 277 | [Find the Celebrity][p277]                                          |           |    :lock:     | Medium      |
+| 276 | [Paint Fence][p276]                                                 |           |    :lock:     | Easy        |
+| 275 | [H-Index II][p275]                                                  |           | [Ruby][s275]  | Medium      |
+| 274 | [H-Index][p274]                                                     |           | [Ruby][s274]  | Medium      |
+| 273 | [Integer to English Words][p273]                                    |           | [Ruby][s273]  | Medium      |
+| 272 | [Closest Binary Search Tree Value II][p272]                         |           |    :lock:     | Hard        |
+| 271 | [Encode and Decode Strings][p271]                                   |           |    :lock:     | Medium      |
+| 270 | [Closest Binary Search Tree Value][p270]                            |           |    :lock:     | Easy        |
+| 269 | [Alien Dictionary][p269]                                            |           |    :lock:     | Hard        |
+| 268 | [Missing Number][p268]                                              |           | [Ruby][s268]  | Medium      |
+| 267 | [Palindrome Permutation II][p267]                                   |           |    :lock:     | Medium      |
+| 266 | [Palindrome Permutation][p266]                                      |           |    :lock:     | Easy        |
+| 265 | [Paint House II][p265]                                              |           |    :lock:     | Hard        |
+| 264 | [Ugly Number II][p264]                                              |           | [Ruby][s264]  | Medium      |
+| 263 | [Ugly Number][p263]                                                 |           | [Ruby][s263]  | Easy        |
+| 262 | [Trips and Users][p262]                                             |           |[MySQL][s262]  | Hard        |
+| 261 | [Graph Valid Tree][p261]                                            |           |    :lock:     | Medium      |
+| 260 | [Single Number III][p260]                                           |           | [Ruby][s260]  | Medium      |
+| 259 | [3Sum Smaller][p259]                                                |           |    :lock:     | Medium      |
+| 258 | [Add Digits][p258]                                                  |           | [Ruby][s258]  | Easy        |
+| 257 | [Binary Tree Paths][p257]                                           |           | [Ruby][s257]  | Easy        |
+| 256 | [Paint House][p256]                                                 |           |    :lock:     | Medium      |
+| 255 | [Verify Preorder Sequence in Binary Search Tree][p255]              |           |    :lock:     | Medium      |
+| 254 | [Factor Combinations][p254]                                         |           |    :lock:     | Medium      |
+| 253 | [Meeting Rooms II][p253]                                            |           |    :lock:     | Medium      |
+| 252 | [Meeting Rooms][p252]                                               |           |    :lock:     | Easy        |
+| 251 | [Flatten 2D Vector][p251]                                           |           |    :lock:     | Medium      |
+| 250 | [Count Univalue Subtrees][p250]                                     |           |    :lock:     | Medium      |
+| 249 | [Group Shifted Strings][p249]                                       |           |    :lock:     | Easy        |
+| 248 | [Strobogrammatic Number III][p248]                                  |           |    :lock:     | Hard        |
+| 247 | [Strobogrammatic Number II][p247]                                   |           |    :lock:     | Medium      |
+| 246 | [Strobogrammatic Number][p246]                                      |           |    :lock:     | Easy        |
+| 245 | [Shortest Word Distance III][p245]                                  |           |    :lock:     | Medium      |
+| 244 | [Shortest Word Distance II][p244]                                   |           |    :lock:     | Medium      |
+| 243 | [Shortest Word Distance][p243]                                      |           |    :lock:     | Easy        |
+| 242 | [Valid Anagram][p242]                                               |           | [Ruby][s242]  | Easy        |
+| 241 | [Different Ways to Add Parentheses][p241]                           |           | [Ruby][s241]  | Medium      |
+| 240 | [Search a 2D Matrix II][p240]                                       |           | [Ruby][s240]  | Medium      |
+| 239 | [Sliding Window Maximum][p239]                                      |           | [Ruby][s239]  | Hard        |
+| 238 | [Product of Array Except Self][p238]                                |           | [Ruby][s238]  | Medium      |
+| 237 | [Delete Node in a Linked List][p237]                                |           | [Ruby][s237]  | Easy        |
+| 236 | [Lowest Common Ancestor of a Binary Tree][p236]                     |           | [Ruby][s236]  | Medium      |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree][p235]              |           | [Ruby][s235]  | Easy        |
+| 234 | [Palindrome Linked List][p234]                                      |           | [Ruby][s234]  | Easy        |
+| 233 | [Number of Digit One][p233]                                         |           | [Ruby][s233]  | Medium      |
+| 232 | [Implement Queue using Stacks][p232]                                |           | [Ruby][s232]  | Easy        |
+| 231 | [Power of Two][p231]                                                |           | [Ruby][s231]  | Easy        |
+| 230 | [Kth Smallest Element in a BST][p230]                               |           | [Ruby][s230]  | Medium      |
+| 229 | [Majority Element II][p229]                                         |           | [Ruby][s229]  | Medium      |
+| 228 | [Summary Ranges][p228]                                              |           | [Ruby][s228]  | Easy        |
+| 227 | [Basic Calculator II][p227]                                         |           | [Ruby][s227]  | Medium      |
+| 226 | [Invert Binary Tree][p226]                                          |           | [Ruby][s226]  | Easy        |
+| 225 | [Implement Stack using Queues][p225]                                |           | [Ruby][s225]  | Easy        |
+| 224 | [Basic Calculator][p224]                                            |           | [Ruby][s224]  | Medium      |
+| 223 | [Rectangle Area][p223]                                              |           | [Ruby][s223]  | Easy        |
+| 222 | [Count Complete Tree Nodes][p222]                                   |           | [Ruby][s222]  | Medium      |
+| 221 | [Maximal Square][p221]                                              |           | [Ruby][s221]  | Medium      |
+| 220 | [Contains Duplicate III][p220]                                      |           | [Ruby][s220]  | Medium      |
+| 219 | [Contains Duplicate II][p219]                                       |           | [Ruby][s219]  | Easy        |
+| 218 | [The Skyline Problem][p218]                                         |           | [Ruby][s218]  | Hard        |
+| 217 | [Contains Duplicate][p217]                                          |           | [Ruby][s217]  | Easy        |
+| 216 | [Combination Sum III][p216]                                         |           | [Ruby][s216]  | Medium      |
+| 215 | [Kth Largest Element in an Array][p215]                             |           | [Ruby][s215]  | Medium      |
+| 214 | [Shortest Palindrome][p214]                                         |           | [Ruby][s214]  | Hard        |
+| 213 | [House Robber II][p213]                                             |           | [Ruby][s213]  | Medium      |
+| 212 | [Word Search II][p212]                                              |           | [Ruby][s212]  | Hard        |
+| 211 | [Add and Search Word - Data structure design][p211]                 |           | [Ruby][s211]  | Medium      |
+| 210 | [Course Schedule II][p210]                                          |           | [Ruby][s210]  | Medium      |
+| 209 | [Minimum Size Subarray Sum][p209]                                   |           | [Ruby][s209]  | Medium      |
+| 208 | [Implement Trie (Prefix Tree)][p208]                                |           | [Ruby][s208]  | Medium      |
+| 207 | [Course Schedule][p207]                                             |           | [Ruby][s207]  | Medium      |
+| 206 | [Reverse Linked List][p206]                                         |           | [Ruby][s206]  | Easy        |
+| 205 | [Isomorphic Strings][p205]                                          |           | [Ruby][s205]  | Easy        |
+| 204 | [Count Primes][p204]                                                |           | [Ruby][s204]  | Easy        |
+| 203 | [Remove Linked List Elements][p203]                                 |           | [Ruby][s203]  | Easy        |
+| 202 | [Happy Number][p202]                                                |           | [Ruby][s202]  | Easy        |
+| 201 | [Bitwise AND of Numbers Range][p201]                                |           | [Ruby][s201]  | Medium      |
+| 200 | [Number of Islands][p200]                                           |           | [Ruby][s200]  | Medium      |
+| 199 | [Binary Tree Right Side View][p199]                                 |           | [Ruby][s199]  | Medium      |
+| 198 | [House Robber][p198]                                                |           | [Ruby][s198]  | Easy        |
+| 197 | [Rising Temperature][p197]                                          |           |[MySQL][s197]  | Easy        |
+| 196 | [Delete Duplicate Emails][p196]                                     |           |[MySQL][s196]  | Easy        |
+| 195 | [Tenth Line][p195]                                                  |           | [Bash][s195]  | Easy        |
+| 194 | [Transpose File][p194]                                              |           | [Bash][s194]  | Medium      |
+| 193 | [Valid Phone Numbers][p193]                                         |           | [Bash][s193]  | Easy        |
+| 192 | [Word Frequency][p192]                                              |           | [Bash][s192]  | Medium      |
+| 191 | [Number of 1 Bits][p191]                                            |           | [Ruby][s191]  | Easy        |
+| 190 | [Reverse Bits][p190]                                                |           | [Ruby][s190]  | Easy        |
+| 189 | [Rotate Array][p189]                                                |           | [Ruby][s189]  | Easy        |
+| 188 | [Best Time to Buy and Sell Stock IV][p188]                          |           | [Ruby][s188]  | Hard        |
+| 187 | [Repeated DNA Sequences][p187]                                      |           | [Ruby][s187]  | Medium      |
+| 186 | [Reverse Words in a String II][p186]                                |           |    :lock:     | Medium      |
+| 185 | [Department Top Three Salaries][p185]                               |           |[MySQL][s185]  | Hard        |
+| 184 | [Department Highest Salary][p184]                                   |           |[MySQL][s184]  | Medium      |
+| 183 | [Customers Who Never Order][p183]                                   |           |[MySQL][s183]  | Easy        |
+| 182 | [Duplicate Emails][p182]                                            |           |[MySQL][s182]  | Easy        |
+| 181 | [Employees Earning More Than Their Managers][p181]                  |           |[MySQL][s181]  | Easy        |
+| 180 | [Consecutive Numbers][p180]                                         |           |[MySQL][s180]  | Medium      |
+| 179 | [Largest Number][p179]                                              |           | [Ruby][s179]  | Medium      |
+| 178 | [Rank Scores][p178]                                                 |           |[MySQL][s178]  | Medium      |
+| 177 | [Nth Highest Salary][p177]                                          |           |[MySQL][s177]  | Medium      |
+| 176 | [Second Highest Salary][p176]                                       |           |[MySQL][s176]  | Easy        |
+| 175 | [Combine Two Tables][p175]                                          |           |[MySQL][s175]  | Easy        |
+| 174 | [Dungeon Game][p174]                                                |           | [Ruby][s174]  | Hard        |
+| 173 | [Binary Search Tree Iterator][p173]                                 |           | [Ruby][s173]  | Medium      |
+| 172 | [Factorial Trailing Zeroes][p172]                                   |           | [Ruby][s172]  | Easy        |
+| 171 | [Excel Sheet Column Number][p171]                                   |           | [Ruby][s171]  | Easy        |
+| 170 | [Two Sum III - Data structure design][p170]                         |           |    :lock:     | Easy        |
+| 169 | [Majority Element][p169]                                            |           | [Ruby][s169]  | Easy        |
+| 168 | [Excel Sheet Column Title][p168]                                    |           | [Ruby][s168]  | Easy        |
+| 167 | [Two Sum II - Input array is sorted][p167]                          |           |    :lock:     | Medium      |
+| 166 | [Fraction to Recurring Decimal][p166]                               |           | [Ruby][s166]  | Medium      |
+| 165 | [Compare Version Numbers][p165]                                     |           | [Ruby][s165]  | Easy        |
+| 164 | [Maximum Gap][p164]                                                 |           | [Ruby][s164]  | Hard        |
+| 163 | [Missing Ranges][p163]                                              |           |    :lock:     | Medium      |
+| 162 | [Find Peak Element][p162]                                           |           | [Ruby][s162]  | Medium      |
+| 161 | [One Edit Distance][p161]                                           |           |    :lock:     | Medium      |
+| 160 | [Intersection of Two Linked Lists][p160]                            |           |    :soon:     | Easy        |
+| 159 | [Longest Substring with At Most Two Distinct Characters][p159]      |           |    :lock:     | Hard        |
+| 158 | [Read N Characters Given Read4 II - Call multiple times][p158]      |           |    :lock:     | Hard        |
+| 157 | [Read N Characters Given Read4][p157]                               |           |    :lock:     | Easy        |
+| 156 | [Binary Tree Upside Down][p156]                                     |           |    :lock:     | Medium      |
+| 155 | [Min Stack][p155]                                                   |           | [Ruby][s155]  | Easy        |
+| 154 | [Find Minimum in Rotated Sorted Array II][p154]                     |           | [Ruby][s154]  | Hard        |
+| 153 | [Find Minimum in Rotated Sorted Array][p153]                        |           | [Ruby][s153]  | Medium      |
+| 152 | [Maximum Product Subarray][p152]                                    |           | [Ruby][s152]  | Medium      |
+| 151 | [Reverse Words in a String][p151]                                   |           |    :soon:     | Medium      |
+| 150 | [Evaluate Reverse Polish Notation][p150]                            |           | [Ruby][s150]  | Medium      |
+| 149 | [Max Points on a Line][p149]                                        |           | [Ruby][s149]  | Hard        |
+| 148 | [Sort List][p148]                                                   |           | [Ruby][s148]  | Medium      |
+| 147 | [Insertion Sort List][p147]                                         |           | [Ruby][s147]  | Medium      |
+| 146 | [LRU Cache][p146]                                                   |           | [Ruby][s146]  | Hard        |
+| 145 | [Binary Tree Postorder Traversal][p145]                             |           | [Ruby][s145]  | Hard        |
+| 144 | [Binary Tree Preorder Traversal][p144]                              |           | [Ruby][s144]  | Medium      |
+| 143 | [Reorder List][p143]                                                |           | [Ruby][s143]  | Medium      |
+| 142 | [Linked List Cycle II][p142]                                        |           |    :soon:     | Medium      |
+| 141 | [Linked List Cycle][p141]                                           |           |    :soon:     | Medium      |
+| 140 | [Word Break II][p140]                                               |           | [Ruby][s140]  | Hard        |
+| 139 | [Word Break][p139]                                                  |           | [Ruby][s139]  | Medium      |
+| 138 | [Copy List with Random Pointer][p138]                               |           |    :soon:     | Hard        |
+| 137 | [Single Number II][p137]                                            |           | [Ruby][s137]  | Medium      |
+| 136 | [Single Number][p136]                                               |           | [Ruby][s136]  | Medium      |
+| 135 | [Candy][p135]                                                       |           | [Ruby][s135]  | Hard        |
+| 134 | [Gas Station][p134]                                                 |           | [Ruby][s134]  | Medium      |
+| 133 | [Clone Graph][p133]                                                 |           |    :soon:     | Medium      |
+| 132 | [Palindrome Partitioning II][p132]                                  |           | [Ruby][s132]  | Hard        |
+| 131 | [Palindrome Partitioning][p131]                                     |           | [Ruby][s131]  | Medium      |
+| 130 | [Surrounded Regions][p130]                                          |           | [Ruby][s130]  | Medium      |
+| 129 | [Sum Root to Leaf Numbers][p129]                                    |           | [Ruby][s129]  | Medium      |
+| 128 | [Longest Consecutive Sequence][p128]                                |           | [Ruby][s128]  | Hard        |
+| 127 | [Word Ladder][p127]                                                 |           | [Ruby][s127]  | Medium      |
+| 126 | [Word Ladder II][p126]                                              |           |    :soon:     | Hard        |
+| 125 | [Valid Palindrome][p125]                                            |           | [Ruby][s125]  | Easy        |
+| 124 | [Binary Tree Maximum Path Sum][p124]                                |           | [Ruby][s124]  | Hard        |
+| 123 | [Best Time to Buy and Sell Stock III][p123]                         |           | [Ruby][s123]  | Hard        |
+| 122 | [Best Time to Buy and Sell Stock II][p122]                          |           | [Ruby][s122]  | Medium      |
+| 121 | [Best Time to Buy and Sell Stock][p121]                             |           | [Ruby][s121]  | Medium      |
+| 120 | [Triangle][p120]                                                    |           | [Ruby][s120]  | Medium      |
+| 119 | [Pascal's Triangle II][p119]                                        |           | [Ruby][s119]  | Easy        |
+| 118 | [Pascal's Triangle][p118]                                           |           | [Ruby][s118]  | Easy        |
+| 117 | [Populating Next Right Pointers in Each Node II][p117]              |           |    :soon:     | Hard        |
+| 116 | [Populating Next Right Pointers in Each Node][p116]                 |           |    :soon:     | Medium      |
+| 115 | [Distinct Subsequences][p115]                                       |           | [Ruby][s115]  | Hard        |
+| 114 | [Flatten Binary Tree to Linked List][p114]                          |           | [Ruby][s114]  | Medium      |
+| 113 | [Path Sum II][p113]                                                 |           | [Ruby][s113]  | Medium      |
+| 112 | [Path Sum][p112]                                                    |           | [Ruby][s112]  | Easy        |
+| 111 | [Minimum Depth of Binary Tree][p111]                                |           | [Ruby][s111]  | Easy        |
+| 110 | [Balanced Binary Tree][p110]                                        |           | [Ruby][s110]  | Easy        |
+| 109 | [Convert Sorted List to Binary Search Tree][p109]                   |           | [Ruby][s109]  | Medium      |
+| 108 | [Convert Sorted Array to Binary Search Tree][p108]                  |           | [Ruby][s108]  | Medium      |
+| 107 | [Binary Tree Level Order Traversal II][p107]                        |           | [Ruby][s107]  | Easy        |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal][p106]  |           | [Ruby][s106]  | Medium      |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal][p105]   |           | [Ruby][s105]  | Medium      |
+| 104 | [Maximum Depth of Binary Tree][p104]                                |           | [Ruby][s104]  | Easy        |
+| 103 | [Binary Tree Zigzag Level Order Traversal][p103]                    |           | [Ruby][s103]  | Medium      |
+| 102 | [Binary Tree Level Order Traversal][p102]                           |           | [Ruby][s102]  | Easy        |
+| 101 | [Symmetric Tree][p101]                                              |           | [Ruby][s101]  | Easy        |
+| 100 | [Same Tree][p100]                                                   |           | [Ruby][s100]  | Easy        |
+|  99 | [Recover Binary Search Tree][p99]                                   |           | [Ruby][s99]   | Hard        |
+|  98 | [Validate Binary Search Tree][p98]                                  |           | [Ruby][s98]   | Medium      |
+|  97 | [Interleaving String][p97]                                          |           | [Ruby][s97]   | Hard        |
+|  96 | [Unique Binary Search Trees][p96]                                   |           | [Ruby][s96]   | Medium      |
+|  95 | [Unique Binary Search Trees II][p95]                                |           | [Ruby][s95]   | Medium      |
+|  94 | [Binary Tree Inorder Traversal][p94]                                |           | [Ruby][s94]   | Medium      |
+|  93 | [Restore IP Addresses][p93]                                         |           | [Ruby][s93]   | Medium      |
+|  92 | [Reverse Linked List II][p92]                                       |           | [Ruby][s92]   | Medium      |
+|  91 | [Decode Ways][p91]                                                  |           | [Ruby][s91]   | Medium      |
+|  90 | [Subsets II][p90]                                                   |           | [Ruby][s90]   | Medium      |
+|  89 | [Gray Code][p89]                                                    |           | [Ruby][s89]   | Medium      |
+|  88 | [Merge Sorted Array][p88]                                           |           | [Ruby][s88]   | Easy        |
+|  87 | [Scramble String][p87]                                              |           | [Ruby][s87]   | Hard        |
+|  86 | [Partition List][p86]                                               |           | [Ruby][s86]   | Medium      |
+|  85 | [Maximal Rectangle][p85]                                            |           | [Ruby][s85]   | Hard        |
+|  84 | [Largest Rectangle in Histogram][p84]                               |           | [Ruby][s84]   | Hard        |
+|  83 | [Remove Duplicates from Sorted List][p83]                           |           | [Ruby][s83]   | Easy        |
+|  82 | [Remove Duplicates from Sorted List II][p82]                        |           | [Ruby][s82]   | Medium      |
+|  81 | [Search in Rotated Sorted Array II][p81]                            |           | [Ruby][s81]   | Medium      |
+|  80 | [Remove Duplicates from Sorted Array II][p80]                       |           | [Ruby][s80]   | Medium      |
+|  79 | [Word Search][p79]                                                  |           | [Ruby][s79]   | Medium      |
+|  78 | [Subsets][p78]                                                      |           | [Ruby][s78]   | Medium      |
+|  77 | [Combinations][p77]                                                 |           | [Ruby][s77]   | Medium      |
+|  76 | [Minimum Window Substring][p76]                                     |           | [Ruby][s76]   | Hard        |
+|  75 | [Sort Colors][p75]                                                  |           | [Ruby][s75]   | Medium      |
+|  74 | [Search a 2D Matrix][p74]                                           |           | [Ruby][s74]   | Medium      |
+|  73 | [Set Matrix Zeroes][p73]                                            |           | [Ruby][s73]   | Medium      |
+|  72 | [Edit Distance][p72]                                                |           | [Ruby][s72]   | Hard        |
+|  71 | [Simplify Path][p71]                                                |           | [Ruby][s71]   | Medium      |
+|  70 | [Climbing Stairs][p70]                                              |           | [Ruby][s70]   | Easy        |
+|  69 | [Sqrt()][p69]                                                       |           | [Ruby][s69]   | Medium      |
+|  68 | [Text Justification][p68]                                           |           | [Ruby][s68]   | Hard        |
+|  67 | [Add Binary][p67]                                                   |           | [Ruby][s67]   | Easy        |
+|  66 | [Plus One][p66]                                                     |           | [Ruby][s66]   | Easy        |
+|  65 | [Valid Number][p65]                                                 |           | [Ruby][s65]   | Hard        |
+|  64 | [Minimum Path Sum][p64]                                             |           | [Ruby][s64]   | Medium      |
+|  63 | [Unique Paths II][p63]                                              |           | [Ruby][s63]   | Medium      |
+|  62 | [Unique Paths][p62]                                                 |           | [Ruby][s62]   | Medium      |
+|  61 | [Rotate List][p61]                                                  |           | [Ruby][s61]   | Medium      |
+|  60 | [Permutation Sequence][p60]                                         |           | [Ruby][s60]   | Medium      |
+|  59 | [Spiral Matrix II][p59]                                             |           | [Ruby][s59]   | Medium      |
+|  58 | [Length of Last Word][p58]                                          |           | [Ruby][s58]   | Easy        |
+|  57 | [Insert Interval][p57]                                              |           | [Ruby][s57]   | Hard        |
+|  56 | [Merge Intervals][p56]                                              |           | [Ruby][s56]   | Hard        |
+|  55 | [Jump Game][p55]                                                    |           | [Ruby][s55]   | Medium      |
+|  54 | [Spiral Matrix][p54]                                                |           | [Ruby][s54]   | Medium      |
+|  53 | [Maximum Subarray][p53]                                             |           | [Ruby][s53]   | Medium      |
+|  52 | [N-Queens II][p52]                                                  |           | [Ruby][s52]   | Hard        |
+|  51 | [N-Queens][p51]                                                     |           | [Ruby][s51]   | Hard        |
+|  50 | [Pow(x, n)][p50]                                                    |           | [Ruby][s50]   | Medium      |
+|  49 | [Group Anagrams][p49]                                               |           | [Ruby][s49]   | Medium      |
+|  48 | [Rotate Image][p48]                                                 |           | [Ruby][s48]   | Medium      |
+|  47 | [Permutations II][p47]                                              |           | [Ruby][s47]   | Medium      |
+|  46 | [Permutations][p46]                                                 |           | [Ruby][s46]   | Medium      |
+|  45 | [Jump Game II][p45]                                                 |           | [Ruby][s45]   | Hard        |
+|  44 | [Wildcard Matching][p44]                                            |           | [Ruby][s44]   | Hard        |
+|  43 | [Multiply Strings][p43]                                             |           | [Ruby][s43]   | Medium      |
+|  42 | [Trapping Rain Water][p42]                                          |           | [Ruby][s42]   | Hard        |
+|  41 | [First Missing Positive][p41]                                       |           | [Ruby][s41]   | Hard        |
+|  40 | [Combination Sum II][p40]                                           |           | [Ruby][s40]   | Medium      |
+|  39 | [Combination Sum][p39]                                              |           | [Ruby][s39]   | Medium      |
+|  38 | [Count and Say][p38]                                                |           | [Ruby][s38]   | Easy        |
+|  37 | [Sudoku Solver][p37]                                                |           | [Ruby][s37]   | Hard        |
+|  36 | [Valid Sudoku][p36]                                                 |           | [Ruby][s36]   | Easy        |
+|  35 | [Search Insert Position][p35]                                       |           | [Ruby][s35]   | Medium      |
+|  34 | [Search for a Range][p34]                                           |           | [Ruby][s34]   | Medium      |
+|  33 | [Search in Rotated Sorted Array][p33]                               |           | [Ruby][s33]   | Hard        |
+|  32 | [Longest Valid Parentheses][p32]                                    |           | [Ruby][s32]   | Hard        |
+|  31 | [Next Permutation][p31]                                             |           | [Ruby][s31]   | Medium      |
+|  30 | [Substring with Concatenation of All Words][p30]                    |           | [Ruby][s30]   | Hard        |
+|  29 | [Divide Two Integers][p29]                                          |           | [Ruby][s29]   | Medium      |
+|  28 | [Implement strStr()][p28]                                           |           | [Ruby][s28]   | Easy        |
+|  27 | [Remove Element][p27]                                               |           | [Ruby][s27]   | Easy        |
+|  26 | [Remove Duplicates from Sorted Array][p26]                          |           | [Ruby][s26]   | Easy        |
+|  25 | [Reverse Nodes in k-Group][p25]                                     |           | [Ruby][s25]   | Hard        |
+|  24 | [Swap Nodes in Pairs][p24]                                          |           | [Ruby][s24]   | Medium      |
+|  23 | [Merge k Sorted Lists][p23]                                         |           | [Ruby][s23]   | Hard        |
+|  22 | [Generate Parentheses][p22]                                         |           | [Ruby][s22]   | Medium      |
+|  21 | [Merge Two Sorted Lists][p21]                                       |           | [Ruby][s21]   | Easy        |
+|  20 | [Valid Parentheses][p20]                                            |           | [Ruby][s20]   | Easy        |
+|  19 | [Remove Nth Node From End of List][p19]                             |           | [Ruby][s19]   | Easy        |
+|  18 | [4Sum][p18]                                                         |           | [Ruby][s18]   | Medium      |
+|  17 | [Letter Combinations of a Phone Number][p17]                        |           | [Ruby][s17]   | Medium      |
+|  16 | [3Sum Closest][p16]                                                 |           | [Ruby][s16]   | Medium      |
+|  15 | [3Sum][p15]                                                         |           | [Ruby][s15]   | Medium      |
+|  14 | [Longest Common Prefix][p14]                                        |           | [Ruby][s14]   | Easy        |
+|  13 | [Roman to Integer][p13]                                             |           | [Ruby][s13]   | Easy        |
+|  12 | [Integer to Roman][p12]                                             |           | [Ruby][s12]   | Medium      |
+|  11 | [Container With Most Water][p11]                                    |           | [Ruby][s11]   | Medium      |
+|  10 | [Regular Expression Matching][p10]                                  |           | [Ruby][s10]   | Hard        |
+|   9 | [Palindrome Number][p9]                                             |           | [Ruby][s9]    | Easy        |
+|   8 | [String to Integer (atoi)][p8]                                      |           | [Ruby][s8]    | Easy        |
+|   7 | [Reverse Integer][p7]                                               |           | [Ruby][s7]    | Easy        |
+|   6 | [ZigZag Conversion][p6]                                             |           | [Ruby][s6]    | Easy        |
+|   5 | [Longest Palindromic Substring][p5]                                 |           | [Ruby][s5]    | Medium      |
+|   4 | [Median of Two Sorted Arrays][p4]                                   |           | [Ruby][s4]    | Hard        |
+|   3 | [Longest Substring Without Repeating Characters][p3]                |           | [Ruby][s3]    | Medium      |
+|   2 | [Add Two Numbers][p2]                                               |           | [Ruby][s2]    | Medium      |
+|   1 | [Two Sum][p1]                                                       |           | [Ruby][s1]    | Medium      |
 
 
 
