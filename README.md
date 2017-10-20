@@ -1341,3 +1341,9 @@
 [g1]:./solutions/1-two_sum/solution.go
 [s1]:./algorithms/two_sum.rb
 [p1]:https://leetcode.com/problems/two-sum/
+
+<!-- longest-common-prefix -->
+[r14]:./solutions/14-longest-common-prefix/solution.rb
+[g14]:./solutions/14-longest-common-prefix/solution.go
+[s14]:./algorithms/longest-common-prefix.rb
+[p14]:https://leetcode.com/problems/longest-common-prefix/
