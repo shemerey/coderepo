@@ -515,7 +515,7 @@
 | [ ] |  17 | [Letter Combinations of a Phone Number][p17]                        |           | [Ruby][s17]   | Medium      |
 | [ ] |  16 | [3Sum Closest][p16]                                                 |           | [Ruby][s16]   | Medium      |
 | [ ] |  15 | [3Sum][p15]                                                         |           | [Ruby][s15]   | Medium      |
-| [ ] |  14 | [Longest Common Prefix][p14]                                        |           | [Ruby][s14]   | Easy        |
+| [x] |  14 | [Longest Common Prefix][p14]                                        |[Ruby][r14]| [Go][g14]     | Medium      |
 | [ ] |  13 | [Roman to Integer][p13]                                             |           | [Ruby][s13]   | Easy        |
 | [ ] |  12 | [Integer to Roman][p12]                                             |           | [Ruby][s12]   | Medium      |
 | [ ] |  11 | [Container With Most Water][p11]                                    |           | [Ruby][s11]   | Medium      |
